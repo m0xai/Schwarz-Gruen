@@ -1,33 +1,37 @@
 {
-    "name": "schwarz-gruen",
-    "displayName": "Schwarz Gruen",
-    "description": "This is a theme with heavily with black and green colors.",
-    "publisher": "Kerem",
-    "icon": "icons/icon.png",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "author": {
-        "name": "Kerem Zopcuk",
-        "url": "https://github.com/m0xai",
-        "email": "keremzopcuk@gmail.com"
-    },
-    "repository": {
-        "url": "https://github.com/m0xai/Schwarz-Gruen.git",
-        "type": "git"
-    },
-    
-    "contributes": {
-        "themes": [
-            {
-                "label": "Schwarz Gruen",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Schwarz-Gruen-color-theme.json"
-            }
-        ]
-    }
+  "name": "schwarz-gruen",
+  "displayName": "Schwarz Gruen",
+  "description": "This is a theme with heavily with black and green colors.",
+  "publisher": "Kerem",
+  "icon": "icons/icon.png",
+  "version": "2.0.0",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "name": "Kerem Zopcuk",
+    "url": "https://github.com/m0xai",
+    "email": "keremzopcuk@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/m0xai/Schwarz-Gruen.git",
+    "type": "git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Schwarz Gruen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Schwarz-Gruen-color-theme.json"
+      },
+      {
+        "label": "Schwarz Gruen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Schwarz-Gruen-default-color-theme.json"
+      }
+    ]
+  }
 }

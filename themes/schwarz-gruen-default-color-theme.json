@@ -1,5 +1,5 @@
 {
-  "name": "Schwarz-Gruen",
+  "name": "Schwarz-Gruen - Default",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1911,7 +1911,7 @@
     "inputOption.activeForeground": "#ffffff",
     "input.placeholderForeground": "#a6a6a6",
     "textLink.foreground": "#37ff60",
-    "editor.background": "#000000",
+    "editor.background": "#1d1d1d",
     "editor.foreground": "#d4d4d4",
     "editorLineNumber.foreground": "#777777",
     "editorCursor.foreground": "#80ff00",
@@ -2079,9 +2079,9 @@
     "minimap.selectionHighlight": "#4378267e",
     "minimap.errorHighlight": "#f48771",
     "minimap.warningHighlight": "#cca700",
-    "minimap.background": "#000000",
+    "minimap.background": "#1d1d1d",
     "sideBar.dropBackground": "#383b3d",
-    "editorGroup.emptyBackground": "#000000",
+    "editorGroup.emptyBackground": "#1d1d1d",
     "panelSection.border": "#80808059",
     "statusBarItem.activeBackground": "#FFFFFF25",
     "settings.headerForeground": "#cccccc",
