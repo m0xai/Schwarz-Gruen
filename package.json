@@ -28,7 +28,7 @@
         "path": "./themes/Schwarz-Gruen-color-theme.json"
       },
       {
-        "label": "Schwarz Gruen",
+        "label": "Schwarz Gruen - Default",
         "uiTheme": "vs-dark",
         "path": "./themes/Schwarz-Gruen-default-color-theme.json"
       }
